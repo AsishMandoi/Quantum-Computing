@@ -1,2 +1,2 @@
 # Quantum-Computing
-Programming my way through the quantum world...
+Programming my way through the quantum world!
